@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MonkeBoi
+- 👋 Hi, I’m Joshua Chiyezhan
 - 👀 I’m interested in computer programming, electrical engineering, and nintendo games :)
-- 🌱 I’m currently learning Scratch and Swift (Not that good at either)
+- 🌱 I’m currently learning Java and C++ (Not that good at either)
 - 💞️ I’m looking to collaborate on fun projects that you might want to make 
 - 📫 How to reach me jjchiyezhan26@gmail.com
 
