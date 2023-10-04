@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JJCgits
+- 👋 Hi, I’m @MonkeBoi
 - 👀 I’m interested in computer programming, electrical engineering, and nintendo games :)
 - 🌱 I’m currently learning Java and C++ (Not that good at either)
 - 💞️ I’m looking to collaborate on fun projects that you might want to make 
